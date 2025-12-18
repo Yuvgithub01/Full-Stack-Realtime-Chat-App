@@ -1,4 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
+## Live Demo
+[Click here to view the live application](https://video-call-chatapp.onrender.com/)
+
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
